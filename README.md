@@ -1,5 +1,5 @@
-## 💫 About Me
-Hi all, I am Jing👋<br>😎 Software Engineer @ Firewall Enterprise<br>⚡ Specialize in full-stack software development<br>
+## 💫 Hi all, I am Jing👋
+😎 Software Engineer @ Firewall Enterprise<br>⚡ Specialize in full-stack software development<br>
 
 
 ## 💻 Tech Stack
