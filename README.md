@@ -1,5 +1,5 @@
 ## 💫 Hi all, I am Jing👋
-😎 Software Engineer
+😎 Software Engineer<br>
 ⚡ Specialize in full-stack software development<br>
 
 
